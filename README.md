@@ -1,7 +1,7 @@
 # IM-SCHOOL
 ## online exam project
 
-### IM-SCHOOL : I islam ashraf nour gad, M mohammed gamal mahmoud ahmed 
+### IM-SCHOOL : I :islam ashraf nour gad, M :mohammed gamal mahmoud ahmed 
 #### team meamber :
 ####                 1- محمد جمال محمود احمد
 ####                 2- اسلام اشرف نور الدين جاد
